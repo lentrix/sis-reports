@@ -1,0 +1,6 @@
+{
+    "name": "lentrix/sis_reports",
+    "require": {
+        "twbs/bootstrap": "4.1.3"
+    }
+}
